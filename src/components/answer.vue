@@ -2,10 +2,10 @@
 </template>
 
 <script lang="ts" setup>
-import { defineProps, PropType, ref, onMounted } from "vue";
+import { defineProps, PropType } from "vue";
 import { IJob, IJobForm, IAnswer } from "../type";
 
-const props = defineProps({
+defineProps({
   job: {
     type: Object as PropType<IJob>,
     required: true,

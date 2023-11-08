@@ -37,9 +37,9 @@ const props = defineProps({
 
 const nonMembers = ref<IUser[] | null>([]);
 
-function getNonMemberById(id: string) {
-  return nonMembers.value?.find((nonMember) => nonMember.id === id) || null;
-}
+// function getNonMemberById(id: string) {
+//   return nonMembers.value?.find((nonMember) => nonMember.id === id) || null;
+// }
 
 onMounted(async () => {
   nonMembers.value = (

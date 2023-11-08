@@ -44,8 +44,8 @@ import { ElTabs, ElTabPane } from "element-plus";
 import { computed, onMounted, ref } from "vue";
 import { IAnswer, IJob, Res, IJobForm, Mode } from "./type";
 import defaultView from "./components/default-view.vue";
-import answerView from "./components/answer-view.vue";
-import switchMode from "./components/switch-mode.vue";
+// import answerView from "./components/answer-view.vue";
+// import switchMode from "./components/switch-mode.vue";
 import axios from "axios";
 import data from "./data.json";
 
