@@ -25,7 +25,7 @@
               <p class="leading-4">
                 {{ getNonMemberById(ans.nonMemberId)?.name }}
               </p>
-              <p class="text-gray-500 italic text-sm">
+              <p class="text-gray-500 italic">
                 {{ getNonMemberById(ans.nonMemberId)?.email }}
               </p>
             </div>
