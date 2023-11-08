@@ -4,7 +4,7 @@
       <h3 class="italic">{{ part.title }}</h3>
       <div v-for="question in part.questions" :key="question.id" class="mb-2">
         <h4 class="font-semibold text-base">{{ question.question }}</h4>
-        <div class="ml-3 text-gray-500">
+        <div class="ml-3 text-gray-500 !text-base">
           <p v-if="getAnswerByQuestionId(question.id).answerType === 'TEXT'">
             {{
               getAnswerByQuestionId(question.id).answerOfTextQuestionData.text
