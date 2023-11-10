@@ -1054,4 +1054,127 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "654e1e2a0130c43a1ce305cb"
+},
+{
+  "_id": {
+    "$oid": "654e52ca0130c43a1ce3062f"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a56dd600005f303b211",
+      "answerOfTextQuestionData": {
+        "text": "Chu Tiến Tuấn"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "65475a5e709f5c98b35e2477",
+      "answerOfDateQuestionData": {
+        "day": 4,
+        "month": 7,
+        "year": 2003
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a652331a6af178430e5",
+      "answerOfTextQuestionData": {
+        "text": "hieuchuu138@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a76a2cb4d5b86dbde08",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100013365975111"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a7976cdb52493461765",
+      "answerOfTextQuestionData": {
+        "text": "0865036228"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65475a8a868821f7fa2f77f8",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65475a9961896e05462ddd2a"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475ad2d6832b8cdd46ae1b",
+      "answerOfTextQuestionData": {
+        "text": "Trường Đại học Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475ad64a9ab3e1e2ee8526",
+      "answerOfTextQuestionData": {
+        "text": "CNTT-CLC"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475adc9d4295bf8e10d348",
+      "answerOfTextQuestionData": {
+        "text": " Mình có sở thích là xem phim và làm web. Mình là người có khả năng làm việc độc lập cao và làm việc nhóm tốt. Mình tuy có hơi trầm tính nhưng mình luôn chủ động giao lưu, học hỏi những kinh nghiệm từ những người xung quanh."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475adf5e51cb15fd110381",
+      "answerOfTextQuestionData": {
+        "text": "Chưa có"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65475ae36e2e7b4646f8cb43",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65475aec83c6bc3d75ba3f1b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b01514efd86b9646f66",
+      "answerOfTextQuestionData": {
+        "text": "Định hướng ngắn hạn của mình là gia nhập vào tổ chức GDSC, tiếp tục học tập, giao lưu, kết bạn với các bạn trong tổ chức, mở rộng mối quan hệ để tìm được nhiều cơ hội hơn cho việc tìm việc làm trong ngành CNTT. Sau đó, mình tốt nghiệp và sẽ thực tập tại các công ty rồi trở thành fresher. Định hướng dài hạn của mình là tiếp tục gắn bó với công việc này, và phấn đấu đạt được chức vụ cao hơn, từ đó học hỏi được nhiều mảng mới trong ngành CNTT, và kiếm được mức lương ổn định cuộc sống. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b0594a6bdf3967c6215",
+      "answerOfTextQuestionData": {
+        "text": " Về kinh nghiệm, mình đã có kinh nghiệm 8 tháng với HTML/CSS/JavaScript, làm được 6 dự án trong đó có 3 dự án E-commerce về food, tourist và shoes selling. Mình cũng có kinh nghiệm 5 tháng với ReactJS, và dùng preprocessor CSS SCSS. Mình cũng thực hiện 2 dự án liên quan đến ReactJS và đang theo học VueJS và sẽ sử dụng chúng trong tương lai."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b083917999b067f3952",
+      "answerOfTextQuestionData": {
+        "text": "Chưa có"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466e2fbd073fecc9472216",
+  "nonMemberId": "654e4f6a0130c43a1ce3061f"
 }]
