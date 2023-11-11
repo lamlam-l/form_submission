@@ -1292,4 +1292,250 @@
   ],
   "jobId": "65466eefbd073fecc9472217",
   "nonMemberId": "654f0b9a0130c43a1ce306a8"
+},
+{
+  "_id": {
+    "$oid": "654f7a0a0130c43a1ce30763"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563281154e1bf22c7d54",
+      "answerOfTextQuestionData": {
+        "text": "ĐẶNG THỊ PHƯỢNG"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547563648960da113ef6129",
+      "answerOfDateQuestionData": {
+        "day": 13,
+        "month": 2,
+        "year": 2005
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563b2264a4dd5ed4f063",
+      "answerOfTextQuestionData": {
+        "text": "work.orianadang@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563f444bf6b3e88b05f6",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=61550234945017"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475646e38d42325bbab074",
+      "answerOfTextQuestionData": {
+        "text": "0343238006"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "6547564b46a4e8cc6ab94c39",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654756538b40f6ffb4891f07"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654756600dbcdaa1a5c21060",
+      "answerOfTextQuestionData": {
+        "text": "Học viện Báo chí và Tuyên truyền"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654756678c8a5f164a150f6b",
+      "answerOfTextQuestionData": {
+        "text": "Xã hội học"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475671809d6cc052d13839",
+      "answerOfTextQuestionData": {
+        "text": "Bản thân mình là một người thích làm việc trong các hoạt động, sự kiện xã hội và đang được học tập tại ngôi trường được mệnh danh là \"Trung tâm tổ chức sự kiện quận Cầu Giấy\". Mình thích sáng tạo, thích cống hiến sức mình vào công việc chung. Vị trí Manager là một vị trí cao và mang nhiều trọng trách, song mình nghĩ nếu có cơ hội được làm, mình sẽ làm tốt nhất trong khả năng của mình."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475674fb9115ce95dd307a",
+      "answerOfTextQuestionData": {
+        "text": "Mình sẽ dùng 3 từ để miêu tả bản thân với vị trí này: Trách nhiệm, Hòa đồng và Lắng nghe"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475679dadd341428690e36",
+      "answerOfTextQuestionData": {
+        "text": "Những khó khăn đối với Manager là quản trị nhân sự, đảm bảo KPI, kết nối thành viên."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475682887a39cdc1cd7be8",
+      "answerOfTextQuestionData": {
+        "text": "Mình từng làm trong vị trí hậu cần kiêm lễ tân của CLB Báo chí Truyền thông trong sự kiện \"Lễ trao giải Báo chí Truyền thông thắp sáng\". Công việc đầu tay ấy đã giúp cho mình có thêm nhiều kinh nghiệm như quản lí thời gian, sắp xếp công việc, lắng nghe ý kiến,.. Ngoài ra, khi là học sinh THPT, mình từng đảm nhận vị trí mana trong 2 năm của CLB Bóng rổ. Mình lên kế hoạch tập luyện, giao hữu, bonding,.. Mọi thứ đã giúp mình cảm thấy được sống trong môi trường năng động, nhiệt huyết."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547568751c422e63b455bb5",
+      "answerOfTextQuestionData": {
+        "text": "Nếu trở thành Manager chuyên môn, mình định hướng sẽ cùng toàn clubs phát triển ý tưởng để tạo nên các events có ý nghĩa và chất lượng. Ngoài ra, mình sẽ cùng các thành viên khác xây dựng nên một môi trường vui vẻ, tích cực cùng hợp tác để clb ngày càng lớn mạnh và đoàn kết hơn."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475695f9576f4b26e0a79f",
+      "answerOfTextQuestionData": {
+        "text": "Mình cần lắng nghe ý kiến và chia sẻ của từng cá nhân để tổng hợp và phân tích vấn đề. Nếu có khúc mắc, vấn đề gì thì mình sẽ giải quyết ngay và giải quyết rõ ràng. Hơn nữa, mình có thể tổ chức một buổi bonding cho các thành viên để hiểu nhau hơn, đoàn kết với nhau hơn."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547569abf723678e82c43c8",
+      "answerOfTextQuestionData": {
+        "text": "NA"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467527bd073fecc947221e",
+  "nonMemberId": "654f74710130c43a1ce3075d"
+},
+{
+  "_id": {
+    "$oid": "654f8c460130c43a1ce30772"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "654769e939cd0150d43415f4",
+      "answerOfTextQuestionData": {
+        "text": "Nguyễn Thu Thủy"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "654769f2624f3b697ac54b32",
+      "answerOfDateQuestionData": {
+        "day": 12,
+        "month": 10,
+        "year": 2005
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769f87f487e97414e1883",
+      "answerOfTextQuestionData": {
+        "text": "thuthuy12.205@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769ffd53531bf46557442",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/thuthuyng1210/"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a055f2cdb7c32f2b7c7",
+      "answerOfTextQuestionData": {
+        "text": "0355131497"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65476a0d4297a318c93d68f4",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65476a137ab4da19f9f30ddf"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2baf36d54017a2c5c3",
+      "answerOfTextQuestionData": {
+        "text": "Trường đại học Phenikaa"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2f07ea99cbde3ffc07",
+      "answerOfTextQuestionData": {
+        "text": "Quản trị kinh doanh"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a369b440504174d1b01",
+      "answerOfTextQuestionData": {
+        "text": "Em xin chào anh/chị em là Thu Thủy là sinh viên năm nhất của trường đại học phenikaa. Từ lâu em đã dành một sự yêu thích đặc biệt cho ngành marketing vậy nên trong suốt hành trình của mình em luốn mong muốn bản thân có thể kiến tạo nên những mực tiêu để theo đuổi thứ mình đam mê. Em yêu thích việc sáng tạo nội dung và em cũng yêu thích việc dùng thông điệp để chạm tới trái tim khách hàng( đối tượng mục tiêu) đẻ làm được điều đó, em luôn cố gắng trong việc tìm tòi nghiên cứu tệp đối tượng mục tiêu mà mình hướng đến cũng như luôn cố gắng học hỏi thật nhiều góc nhìn để cái thiện chất lượng nội dung của mình. Em rất hy vọng ngoài việc theo đuổi thứ mình yêu em cũng có thể mang thứ mình yêu đem lại giá trị cùng tổ chức."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a3ad40132f9e5009a62",
+      "answerOfTextQuestionData": {
+        "text": "Trước đây em đã từng may mắn có thời gian hoạt động ở clb trong trường với vai trò là chủ nhiệm, từ đó em đã được thử sức với việc lên các kế hoạch dài hạn ngắn hạn cho các sự kiện của CLB trong đó có các kế hoạch truyền thông, trong đó 2 dự án mà em tâm đắc nhất là Podcast Nếu cô dược nói, và phim Ngắn “Trong Tết”. Bên cạnh đó em cũng từng tham gia với vai trò marketing cho CLB Khởi nghiệp brick house, và từng là thành viên của ban media trong dự án VANHOA của đạo diễn Nguyễn Bông Mai. Qua quá trình hoạt động em đã được các anh chị giúp đỡ và được hiểu hơn, có cái nhìn toàn cảnh hơn về các bộ phận khác nhau trong mảng truyền thông và marketing, bên cạnh đó em cũng được trau dồi nhiều hơn về kỹ năng tổ chức và làm việc nhóm. Và gần đây nhất em cũng rất tự hào khi được là thành viên của Rethink@Vinuni tại đây em được tiếp xúc rông hơn với lĩnh vực học thuật và có nhiều góc nhìn mới mẻ về sáng tạo nội dung."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a567f0d87063c21fcba",
+      "answerOfTextQuestionData": {
+        "text": "Ở góc nhìn của bản thân em nhận thấy mình có một điểm mạnh may mắn có được là em rất nhạy bén trong việc thấu hiệu cảm xúc, từ đó em có thể dễ dàng hơn trong việc đặt mình vào vị trí của khách hàng giúp em làm tốt hơn trong việc sáng tạo. Bản thân em luôn ý thức mình không có quá nhiều lợi thế có sẵn đây cũng chính là lý do em luôn có động lực để chủ động hơn trong việc tìm tòi và học hỏi làm mới bản thân từ đó có thể linh hoạt hơn trong việc tạo ra những nội dung mới. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a5c1c33083c8135ee75",
+      "answerOfTextQuestionData": {
+        "text": "Con đường dài hạn mà em muốn hướng tới đó chính là trở thành một marketer để đạt được điều đó em đặt ra những mục tiêu ngắn hạn cho bản thân mình như sau, Học được cách xây dựng các chiến lược tiếp cận với đối tượng mục tiêu và tìm câu trả lời cho việc làm sao để xây dựng nội dung hiệu quả và đượ biến những ý tưởng trong đầu thành những giá trị thực tế cũng như học hỏi từ những điều mình làm chưa đúng. Em nghĩ rằng trong quá trình là việc với ban marketing nói hung và tiểu ban huyên môn nói riêng sẽ giúp em có cái nhìn tổng quát hơn về marketing cũng như hiểu đươc cách làm việc của các bộ phân trong marketing, và em cũng rất muốn có thể học hỏi thật nhiều những kiến thức liên quan đến chuyên ngành được chỉ bào và góp ý từ các anh/chị có kinh nghiệm hơn để em có thể làm tốt hơn trong hành trình theo đuổi đam mê của bản thân mình "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a65a713f5002d30060a",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/file/d/1XLbmbT1U3DA5VYdYcnJvnnSoD1JjAPsu/view?usp=sharing"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467d2cbd073fecc9472229",
+  "nonMemberId": "654f80080130c43a1ce3076c"
 }]
