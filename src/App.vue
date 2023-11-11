@@ -1,11 +1,13 @@
 <template>
   <div v-if="!isLoading">
-    <h1 class="text-3xl font-bold text-center m-3">Answer manager</h1>
-    <div class="p-5">
+    <div class="flex justify-between p-5">
       <div class="flex mb-1">
         <p class="text-lg">Tổng số đơn:</p>
         <p class="text-xl font-bold ml-3">{{ answers.length }}</p>
       </div>
+      <el-button @click="exportXLSX(answeredJobs, jobsFrom, answers)" type="success"
+        ><i class="fa-solid fa-file-arrow-down"></i
+      ></el-button>
     </div>
     <el-tabs type="border-card">
       <el-tab-pane v-for="answeredJob in answeredJobs" :key="answeredJob.id">
@@ -40,14 +42,17 @@
 </template>
 
 <script setup lang="ts">
-import { ElTabs, ElTabPane } from "element-plus";
+import { ElTabs, ElTabPane, ElButton } from "element-plus";
 import { computed, onMounted, ref } from "vue";
 import { IAnswer, IJob, Res, IJobForm, Mode } from "./type";
 import defaultView from "./components/default-view.vue";
+import { useExcel } from "./composables/excel";
 // import answerView from "./components/answer-view.vue";
 // import switchMode from "./components/switch-mode.vue";
 import axios from "axios";
 import data from "./data.json";
+
+const { exportXLSX } = useExcel();
 
 const jobs = ref<IJob[]>([]);
 const jobsFrom = ref<IJobForm[]>([]);
@@ -91,4 +96,11 @@ onMounted(async () => {
 });
 </script>
 
-<style scoped></style>
+<style>
+.el-tabs__content {
+  @apply !p-2 md:!p-5;
+}
+.el-collapse-item {
+  @apply !p-2 md:!p-5;
+}
+</style>
