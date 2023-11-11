@@ -2,11 +2,6 @@ import { IAnswer, IJob, IJobForm, IUser } from "./../type";
 import * as XLSX from "xlsx";
 import axios from "axios";
 
-const testData = [
-  { name: "George Washington", birthday: "1732-02-22" },
-  { name: "John Adams", birthday: "1735-10-19" },
-];
-
 export const useExcel = () => {
   return {
     exportXLSX: async (
