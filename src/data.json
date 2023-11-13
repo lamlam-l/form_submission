@@ -1883,4 +1883,349 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "6550e33e0130c43a1ce30a66"
+},
+{
+  "_id": {
+    "$oid": "6552361d0130c43a1ce30ba7"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547598e7b14978f476fa353",
+      "answerOfTextQuestionData": {
+        "text": "Vũ Hoài Nhi"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547599270dda17a8202b9b7",
+      "answerOfDateQuestionData": {
+        "day": 18,
+        "month": 1,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759959bf036a1a2fd2c63",
+      "answerOfTextQuestionData": {
+        "text": "hnhi6974@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759992eb2d3f4db0cffda",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100038950187330"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547599d62694eec2a6fe1d4",
+      "answerOfTextQuestionData": {
+        "text": "0795268285"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "654759a11e7fbe6955d0de66",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654759a970f2ce433a7fcd8b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759b9a14fa5c3173966af",
+      "answerOfTextQuestionData": {
+        "text": "Đại học Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759be98804c257753c4c7",
+      "answerOfTextQuestionData": {
+        "text": "Công nghệ thông tin - CLC"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c4f3bf03a51148fa95",
+      "answerOfTextQuestionData": {
+        "text": "là một người thẳng thắn, tỉ mỉ và biết quan sát, tích cực, năng động, hòa đồng, hay cười và luôn sẵn sàng học hỏi."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c75de592112e113f78",
+      "answerOfTextQuestionData": {
+        "text": "có kinh nghiệm tham gia các tổ chức hoạt động ngoại khóa lúc học phổ thông, ví dụ: tham gia tổ chức sự kiện ở trường và lớp. Bên cạnh đó, có kinh nghiệm ở vị trí trợ giảng Tiếng anh (Apollo). Và kinh nghiệm làm Canva, video, cắt ghép cơ bản. Có nhiều trải nghiệm đặc biệt, học hỏi được nhiều hơn về mảng giao tiếp và mở rộng quan hệ, có nhiều kỉ niệm , và cách đối mặt với khó khăn. và quan trọng những trải nghiệm quý giá (làm việc với người nước ngoài và tiếp xúc với họ; buổi phỏng vấn vượt ngoài tưởng tượng bản thân,...)"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759cd91fcc45cb55507c9",
+      "answerOfTextQuestionData": {
+        "text": "có ít và đang trong quá trình tích lũy kinh nghiệm. Một số công nghệ đã sử dụng: ipad, laptop, điện thoại thông minh, robot hút bụi thông minh, ổ cắm,..."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d1b2ccbd8719c6b066",
+      "answerOfTextQuestionData": {
+        "text": "định hướng ngắn hạn: chứng chỉ Tiếng anh, thành thạo ngôn ngữ lập trình(Java, JavaScript,...), tìm hiểu và học hỏi về HTML, CSS. định hướng dài hạn: thành thạo ngôn ngữ lập trình(Java, JavaScript,...), hoàn thiện và nâng cao giá trị bản thân,  tìm hiểu và học hỏi về HTML, CSS, học thêm một ngôn ngữ( nhật hoặc trung). Khi tham gia vào ban Technical nói chung và tiểu ban chuyên môn nói riêng sẽ giúp tôi phát triển về kĩ năng chuyên môn và kĩ năng mềm. Không chỉ vậy, khi tham gia vào đây giúp tôi đẩy nhanh tiến trình hoàn thiện tốt hơn các định hướng và có thể làm bước đệm cho phát triển bản thân trong tương lai, trong chính chuyên ngành mà tôi đang theo đuổi   "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d7f97ebc2a9b30e408",
+      "answerOfTextQuestionData": {
+        "text": "em không có CV ạ"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466d75bd073fecc9472215",
+  "nonMemberId": "654cff8a0130c43a1ce304ab"
+},
+{
+  "_id": {
+    "$oid": "655238720130c43a1ce30baf"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547598e7b14978f476fa353",
+      "answerOfTextQuestionData": {
+        "text": "Đặng Văn Phong "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547599270dda17a8202b9b7",
+      "answerOfDateQuestionData": {
+        "day": 29,
+        "month": 9,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759959bf036a1a2fd2c63",
+      "answerOfTextQuestionData": {
+        "text": "hocuwu123@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759992eb2d3f4db0cffda",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/dang.phong.752/"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547599d62694eec2a6fe1d4",
+      "answerOfTextQuestionData": {
+        "text": "0877223269"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "654759a11e7fbe6955d0de66",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654759a970f2ce433a7fcd8b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759b9a14fa5c3173966af",
+      "answerOfTextQuestionData": {
+        "text": "Trường Đại học Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759be98804c257753c4c7",
+      "answerOfTextQuestionData": {
+        "text": "Công nghệ thông tin"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c4f3bf03a51148fa95",
+      "answerOfTextQuestionData": {
+        "text": "Em tên là Dặng Văn Phong, hiện đang là sinh viên năm 2 theo học ngành Công nghệ thông tin tại trường Đại học Hà Nội, em có đam mê về công nghệ, điện ảnh và thể thao. Đặc biệt là với công nghệ, em thực sự yêu thích cách máy tính hoạt, cách tạo ra các phần mềm có ích cho cuộc sống. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c75de592112e113f78",
+      "answerOfTextQuestionData": {
+        "text": "Em đã từng có kinh nghiệm tham gia clb cầu lông khi còn học ở cấp 3, ở đó em được gặp thêm những người có cùng đam mê với mình, đồng thời nâng cao được trình độ ở bộ môn mình yêu thích"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759cd91fcc45cb55507c9",
+      "answerOfTextQuestionData": {
+        "text": "Em đã từng làm một project website nhỏ có sử dụng các công nghệ như: Html, css và javascript (Folder project đc đính kèm trong portfolio ạ )"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d1b2ccbd8719c6b066",
+      "answerOfTextQuestionData": {
+        "text": "Định hướng ngắn hạn trong một năm đầu của em là học tập các kiến thức cơ bản:  + Các kỹ năng lập trình hướng đối tượng trong ngôn ngữ Java + Các framework hỗ trợ như: JavaSpring, Hibernate,... Định hướng lâu dài của em là muốn tham gia vào các dự án thật với vai trò là Software Developer. Theo em, ban Technical sẽ cho em cơ hội để học hỏi những kiến thức mới để bù đắp những điều em còn thiếu và bên cạnh đó là cơ hội được tham gia vào trong dự án của clb ạ"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d7f97ebc2a9b30e408",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/file/d/1NAg82PgasVnsVY9VTjK91pJZbfsP16ZR/view?usp=sharing"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466d75bd073fecc9472215",
+  "nonMemberId": "6551fb1a0130c43a1ce30b1f"
+},
+{
+  "_id": {
+    "$oid": "655241770130c43a1ce30bed"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547598e7b14978f476fa353",
+      "answerOfTextQuestionData": {
+        "text": "Nguyễn Thanh Thùy"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547599270dda17a8202b9b7",
+      "answerOfDateQuestionData": {
+        "day": 2,
+        "month": 1,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759959bf036a1a2fd2c63",
+      "answerOfTextQuestionData": {
+        "text": "thanhthuy020103@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759992eb2d3f4db0cffda",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100026216085364"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547599d62694eec2a6fe1d4",
+      "answerOfTextQuestionData": {
+        "text": "0326129930"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "654759a11e7fbe6955d0de66",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654759a970f2ce433a7fcd8b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759b9a14fa5c3173966af",
+      "answerOfTextQuestionData": {
+        "text": "Đại học Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759be98804c257753c4c7",
+      "answerOfTextQuestionData": {
+        "text": "Công nghệ thông tin CLC"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c4f3bf03a51148fa95",
+      "answerOfTextQuestionData": {
+        "text": "Em hiện đang là sinh viên năm 2 chuyên ngành công nghệ thông tin của trường Đại học Hà Nội. Hiện em đang có kiến thức cơ bản về mảng ngôn ngữ lập trình Java, kiến thức cơ bản về cách lập web sử dụng HTML và CSS. Em sẽ cố gắng hết sức mình trong các hoạt động của câu lạc bộ cũng như không ngừng học hỏi, trau dồi kiến thức để hoàn thành tốt các công việc của câu lạc bộ. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c75de592112e113f78",
+      "answerOfTextQuestionData": {
+        "text": "Hiện tại thì em chưa có kinh nghiêm tham gia các tổ chức cũng như câu lạc bộ nào ạ. Chính vì vậy mong nhận dịp này có thể được tham gia vào câu lạc bộ của mình để có thể có thêm nhiều trải nghiệm mới cũng như được học hỏi thêm nhiều kiến thức trong quá trình tham gia câu lạc bộ ạ."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759cd91fcc45cb55507c9",
+      "answerOfTextQuestionData": {
+        "text": "Em chưa có nhiều kinh nghiệm về mảng Technical. Tuy nhiên em đã được tiếp xúc với một vài công nghệ như web AI hay các ứng dụng tích hợp AI để phát triển. Em mong rằng câu lạc bộ sẽ là một điểm đến đầy mong đợi mang đến cho em nhiều trải nghiệm cùng tích lũy kiến thức nhiều hơn."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d1b2ccbd8719c6b066",
+      "answerOfTextQuestionData": {
+        "text": "Định hướng ngắn hạn: apply vào Technical trainee để được đào tạo bài bản hơn, biết rõ hơn về các mảng của công nghệ thông tin từ đó có thể tìm cho mình những hướng đi tốt nhất phù hợp nhất với bản thân. Định hướng dài hạn: em muốn tìm hiểu sâu hơn về mảng tester, cũng như muốn tìm cơ hội tham gia các dự án để từ đó học hỏi thêm nhiều kinh nghiệm, trải nghiệm và kiến thức về mảng chuyên môn tester ạ. Chính vì vậy em nghĩ rằng ban Technical nói chung và tiểu ban chuyên môn nói riêng sẽ có thể phát triển cho bản thân em thêm nhiều kiến thức chuyên môn, kinh nghiệm về mảng chuyên môn trong quá trình thực hiện ạ."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d7f97ebc2a9b30e408",
+      "answerOfTextQuestionData": {
+        "text": "https://www.canva.com/design/DAF0DwuNOXA/k2QjyTt1I3GanTp8NgDTOg/edit?utm_content=DAF0DwuNOXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466d75bd073fecc9472215",
+  "nonMemberId": "654b95a50130c43a1ce303d4"
 }]
