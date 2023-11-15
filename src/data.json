@@ -2228,4 +2228,119 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "654b95a50130c43a1ce303d4"
+},
+{
+  "_id": {
+    "$oid": "655496ee0130c43a1ce30cfa"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "654769e939cd0150d43415f4",
+      "answerOfTextQuestionData": {
+        "text": "Nguyễn Thế Huy"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "654769f2624f3b697ac54b32",
+      "answerOfDateQuestionData": {
+        "day": 28,
+        "month": 5,
+        "year": 2002
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769f87f487e97414e1883",
+      "answerOfTextQuestionData": {
+        "text": "nguyenthehuythbn@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769ffd53531bf46557442",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/ptorczek/"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a055f2cdb7c32f2b7c7",
+      "answerOfTextQuestionData": {
+        "text": "0886838890"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65476a0d4297a318c93d68f4",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65476a220ca7318ed8dd9dcb"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2baf36d54017a2c5c3",
+      "answerOfTextQuestionData": {
+        "text": "Trường ĐH Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2f07ea99cbde3ffc07",
+      "answerOfTextQuestionData": {
+        "text": "Ngôn ngữ Trung Quốc "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a369b440504174d1b01",
+      "answerOfTextQuestionData": {
+        "text": "Chào Ban Điều hành GDSC, mình là Thế Huy. Mình luôn chú ý tới các giá trị thiết thực. Đồng thời cũng luôn đặt ra các định hướng để trở thành hình mẫu mình mong muốn. Tuy nhiên, thực tế chứ không hề thực dụng, mình là người sống tình cảm và chân thành với mọi người xung quanh. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a3ad40132f9e5009a62",
+      "answerOfTextQuestionData": {
+        "text": "mình đã tham gia 4 CLB trong 3 năm đầu thời sinh viên của mình. Mình đã có những trải nghiệm hết sức quý giá về lãnh đạo, thuyết trình, thuyết phục, giao tiếp và hòa nhập với người lạ,... đồng thời quen được những người bạn mới hết sức tuyệt vời "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a567f0d87063c21fcba",
+      "answerOfTextQuestionData": {
+        "text": "Thứ nhất mình có khả năng tốt về lãnh đạo, quản trị, quản lý tổ chức nói chung và nhân sự nói riêng. Thứ hai mình muốn làm quen cũng như kết nối với nhiều người trong ngành CNTT cho nên mình cũng rất muốn vào ban Nhân sự "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a5c1c33083c8135ee75",
+      "answerOfTextQuestionData": {
+        "text": "Mình xin phép chỉ nói cụ thể định hướng ngắn hạn, còn định hướng dài hạn mình xin được nói khái quát ạ. Định hướng ngắn hạn của mình từ bây giờ cho tới khi tốt nghiệp là thứ nhất có mức GPA tốt nghiệp như mong muốn, thứ hai là master tiếng Anh ở trình độ C1 và tiếng Trung ở trình độ HSK6, thứ ba là học nốt các văn bằng chứng chỉ khác như sư phạm, báo chí truyền thông, bằng lái ô tô, các kỹ năng liên quan tới CNTT như: seo content, tạo trang web, phân tích dữ liệu, các kiến thức về truyền thông; marketing,... để sau khi tốt nghiệp, kết hợp với việc làm chính và các nguồn việc khác, các nguồn thu nhập bị động để tạo tổng thu nhập 1 tháng trên 20 triệu. Ngoài ra mình cũng đặt mục tiêu nhiều về du lịch, trong năm cuối sinh viên mình phải đi hết trên 40 tỉnh thành và ra 2 đất nước mới, nhằm mở rộng tầm nhìn về cuộc sống. Định hướng dài hạn tầm nhìn 5-10 năm, sẽ trở thành cá nhân có sức ảnh hưởng lớn, chuyên môn hàng đầu trong các lĩnh vực của bản thân, trở thành chủ doanh nghiệp do mình tự sáng lập và sở hữu một số bất động sản.  "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a65a713f5002d30060a",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/file/d/1rlt79wC7WT1RoRUz9c2FgzwTW1TaIO6E/view?usp=sharing"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467e72bd073fecc947222b",
+  "nonMemberId": "655492230130c43a1ce30cf3"
 }]
