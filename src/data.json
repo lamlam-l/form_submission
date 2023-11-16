@@ -2573,4 +2573,234 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "655589ee0130c43a1ce30d51"
+},
+{
+  "_id": {
+    "$oid": "6556041f0130c43a1ce30d9e"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547598e7b14978f476fa353",
+      "answerOfTextQuestionData": {
+        "text": "Nguyễn Đức Hiếu"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547599270dda17a8202b9b7",
+      "answerOfDateQuestionData": {
+        "day": 16,
+        "month": 1,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759959bf036a1a2fd2c63",
+      "answerOfTextQuestionData": {
+        "text": "hieuklevin@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759992eb2d3f4db0cffda",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100019267385877"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547599d62694eec2a6fe1d4",
+      "answerOfTextQuestionData": {
+        "text": "0862489229"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "654759a11e7fbe6955d0de66",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654759a970f2ce433a7fcd8b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759b9a14fa5c3173966af",
+      "answerOfTextQuestionData": {
+        "text": "international school, vnu"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759be98804c257753c4c7",
+      "answerOfTextQuestionData": {
+        "text": "AIT, applied information technology"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c4f3bf03a51148fa95",
+      "answerOfTextQuestionData": {
+        "text": "Em là một sinh viên về công nghệ, với đam mê, sức trẻ và nhiệt huyết cùng sự ham học hỏi của mình, em mong muốn được trở thành một thành viên của một tổ chức công nghệ lớn để được giao lưu, học hỏi và ứng dụng những kỹ năng của mình vào những dự án thực tế. Từ đó phát huy năng lực của bản thân mình, tìm định hướng phù hợp và khắc phục sự rụt rè của bản thân."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c75de592112e113f78",
+      "answerOfTextQuestionData": {
+        "text": "Em từng tham gia vai trò Judge Assistant cho Steam Hacks 2023 do Steam for Vietnam tổ chức; em tập trung làm nghiên cứu về data, machine learning và ai "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759cd91fcc45cb55507c9",
+      "answerOfTextQuestionData": {
+        "text": "Em đang train model to detect and recognition, RDBMS for back-end, tự học về React for front-end."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d1b2ccbd8719c6b066",
+      "answerOfTextQuestionData": {
+        "text": "Trong những năm học tiếp theo, em tập trung vào học thuật, hoàn thành các đề tài nckh mà mình đặt, tích lũy kinh nghiệm và ra trường đúng hạn và có một công việc đúng chuyên môn mình đã theo ( R&D, Cloud, Architecture,...). Sau khi làm việc 1 năm, em sẽ tiếp tục hoàn thiện bằng master chuẩn bị du học."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d7f97ebc2a9b30e408",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/file/d/1wpbud9op8rw4tR9uqpcSBBSIRovaN33_/view?usp=sharing"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466d75bd073fecc9472215",
+  "nonMemberId": "6555fb1b0130c43a1ce30d97"
+},
+{
+  "_id": {
+    "$oid": "655607e00130c43a1ce30da5"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b22dcf5c8f1dd258335",
+      "answerOfTextQuestionData": {
+        "text": "Vũ Thị Thu Thảo "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "65476b2843ba0a56c7c98c27",
+      "answerOfDateQuestionData": {
+        "day": 21,
+        "month": 5,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b2ca3e82b1fedbef9ec",
+      "answerOfTextQuestionData": {
+        "text": "becathaovu2115@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b33160b8151a77ad8af",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/camerame0521/"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b37e60e28af911ed7b8",
+      "answerOfTextQuestionData": {
+        "text": "0866866904"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65476b3e28cb4b76319ce305",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65476b463495498b2300570f"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b5712d1b381196859e6",
+      "answerOfTextQuestionData": {
+        "text": "Đại học Hà Nội "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b5f12ff81d5f55f7b8d",
+      "answerOfTextQuestionData": {
+        "text": "Kế Toán "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b65ed5908c06180d8c7",
+      "answerOfTextQuestionData": {
+        "text": "Mình là Thảo, mình được mọi người đánh giá là hòa đồng, ham học hỏi và có trách nhiệm. Mình hiện đang trên con đường đi tìm chính mình, vậy nên mình muốn được trải nghiệm tại các vị trí khác nhau. Tại GDSC HANU, mình muốn được thử sức với event finance, mong rằng mình có thể trở thành một thành viên của CLB. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b69d944d012414a9b80",
+      "answerOfTextQuestionData": {
+        "text": "Mình đã tham gia CLB HAC- Câu lạc bộ Kế Toán Đại học Hà Nội. Mình đã được tham gia vào 2 sự kiện của HAC ở vị trí là thành viên ban Truyền Thông. Mình đã được tham gia thiết kế ấn phẩm và đã cải thiện rất nhiều về mảng thiết kế qua 2 sự kiện này. Mình cũng đã từng là CTV của Junior Fashion Week 2024 trong vai trò là thành viên team Design, đây là sự kiện đã cho mình một bài học rằng những gì mình làm được thì cũng sẽ có người làm được thậm chí là tốt hơn. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b804085c60249ba077a",
+      "answerOfTextQuestionData": {
+        "text": "Có 2 điểm mình nghĩ rằng mình phù hợp với công việc này. Đầu tiên, mình thích tổ chức sự kiện và lên kế hoạch. Thứ hai, mình sợ những con số và mình không quá thích Toán, bởi vì mình sợ con số vậy nên khi làm việc với số, mình sẽ cẩn trọng hơn với nó. Điều này, cũng không có nghĩa là mình sẽ bị áp lực khi làm việc và mình không thích. Nếu đã là công việc được giao, mình sẽ cố gắng để hoàn thành tốt nhât có thể. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b84838345f238db1bfb",
+      "answerOfTextQuestionData": {
+        "text": "Ngắn hạn: trải nghiệm và học hỏi. Dài hạn: yêu thích công việc của mình. Mình nghĩ rằng việc mình gia nhập một môi trường mới, mình sẽ có thêm nhiều kiến thức và kĩ năng hơn. Mình sẽ không thể chỉ rõ được rằng mình sẽ nhận được những gì trong quá trình, nhưng mình tin rằng khi mình sẵn sàng tham gia CLB, mình sẽ không rời đi nếu không đóng góp và gặt hái được gì. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476b87cba82a181b3c0eba",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/drive/folders/17mz3W7H41u3ay3iQi_Q0eOdmr1qlj_H7?usp=drive_link"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467f74bd073fecc947222d",
+  "nonMemberId": "6554245e0130c43a1ce30cd1"
 }]
