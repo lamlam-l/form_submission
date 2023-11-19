@@ -3608,4 +3608,119 @@
   ],
   "jobId": "654670fbbd073fecc9472219",
   "nonMemberId": "6558f6bc0130c43a1ce31013"
+},
+{
+  "_id": {
+    "$oid": "6559a4230130c43a1ce31053"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "654769e939cd0150d43415f4",
+      "answerOfTextQuestionData": {
+        "text": "Bùi Huyền Trang"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "654769f2624f3b697ac54b32",
+      "answerOfDateQuestionData": {
+        "day": 23,
+        "month": 10,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769f87f487e97414e1883",
+      "answerOfTextQuestionData": {
+        "text": "huyentrangbui7@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769ffd53531bf46557442",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100023695063496"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a055f2cdb7c32f2b7c7",
+      "answerOfTextQuestionData": {
+        "text": "0367806625"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65476a0d4297a318c93d68f4",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65476a170300e6e4e1fa3f4f"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2baf36d54017a2c5c3",
+      "answerOfTextQuestionData": {
+        "text": "Đại Học FPT"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2f07ea99cbde3ffc07",
+      "answerOfTextQuestionData": {
+        "text": "Digital Marketing"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a369b440504174d1b01",
+      "answerOfTextQuestionData": {
+        "text": "Mình là Bùi Huyền Trang, hiện đang là sinh viên năm 2 chuyên ngành Digital Marketing của Đại Học FPT. Nhờ bạn bè giới thiệu mà mình đã biết đến câu lạc bộ, thông qua tìm hiểu thì mình cảm thấy rất hứng thú và mong muốn có được cơ hội tham gia thử sức."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a3ad40132f9e5009a62",
+      "answerOfTextQuestionData": {
+        "text": "Mình hiện đang là thành viên trong ban Nội Dung của FPTU Chess Club, tại đó mình phụ trách công việc viết bài cho những sự kiện của CLB. Mình còn phụ trách lên ý tưởng và từng lập dự án Marketing qua các dự án trong lớp"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a567f0d87063c21fcba",
+      "answerOfTextQuestionData": {
+        "text": "Bản thân mình khá tốt trong việc tìm kiếm thông tin và viết bài. Ngoài ra mình còn có kĩ năng làm việc nhóm và quản lý thời gian"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a5c1c33083c8135ee75",
+      "answerOfTextQuestionData": {
+        "text": "Trong ngắn hạn, mình muốn tập trung vào việc phát triển các kỹ năng và kiến thức về lĩnh vực Marketing, đồng thời học hỏi về các nguyên tắc và chiến lược Marketing, cũng như cách sử dụng các công cụ và nền tảng Marketing.  Ban Marketing và tiểu ban chuyên môn sẽ giúp mình phát triển bản thân theo nhiều cách khác nhau, ngoài việc được tiếp xúc với các kiến thức và kinh nghiệm thực tế từ các thành viên ban Marketing.  Mình sẽ có cơ hội học hỏi và phát triển các kỹ năng chuyên sâu trong lĩnh vực Marketing và có cơ hội thực hành các kỹ năng của mình thông qua các dự án thực tế."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a65a713f5002d30060a",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/drive/folders/1jFIugNUthZcEn4M6hlK4EixnXY25HGBs?usp=drive_link"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467d2cbd073fecc9472229",
+  "nonMemberId": "6559a1e90130c43a1ce3104c"
 }]
