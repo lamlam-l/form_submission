@@ -3493,4 +3493,119 @@
   ],
   "jobId": "65466eefbd073fecc9472217",
   "nonMemberId": "65527f280130c43a1ce30c14"
+},
+{
+  "_id": {
+    "$oid": "6559053f0130c43a1ce31028"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a56dd600005f303b211",
+      "answerOfTextQuestionData": {
+        "text": "Vũ Trung Kiên"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "65475a5e709f5c98b35e2477",
+      "answerOfDateQuestionData": {
+        "day": 6,
+        "month": 8,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a652331a6af178430e5",
+      "answerOfTextQuestionData": {
+        "text": "kyler682004@gmail.con"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a76a2cb4d5b86dbde08",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/jackson.kyler.75/"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475a7976cdb52493461765",
+      "answerOfTextQuestionData": {
+        "text": "0941682004"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65475a8a868821f7fa2f77f8",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65475a93a68745d40f367463"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475ad2d6832b8cdd46ae1b",
+      "answerOfTextQuestionData": {
+        "text": "Trường Đại Học FPT Hanoi - Cơ sở Hola"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475ad64a9ab3e1e2ee8526",
+      "answerOfTextQuestionData": {
+        "text": "Kỹ thuật phần mềm"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475adc9d4295bf8e10d348",
+      "answerOfTextQuestionData": {
+        "text": "Mình là Kiên, hiện đang là sinh viên năm 2 của chuyên ngành Kỹ thuật Phần mềm ở Đại học FPT, từ những nghiên cứu về ngành nghề tương lai cũng như lời chỉ bảo của anh chị khóa trên, hiện mình đang hướng đến Business Analyst. Một số thành tích của mình là chứng chỉ IELTS 7.0 và hiện đang là trợ giảng kiêm giáo viên của một trung tâm được nhiều người biết đến là SimPace. Mình đã tích lũy kỹ năng làm việc nhóm, giải quyết vấn đề và hiểu biết về cách xây dựng, vận hành, bảo trì, phát triển các hệ thống phần mềm. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475adf5e51cb15fd110381",
+      "answerOfTextQuestionData": {
+        "text": "Trong quãng thời gian học, mình đã tham gia vào nhiều hoạt động trong trường và tổ chức sinh viên với tư cách là thành viên của câu lạc bộ Cờ Vua FPTU. Ở đây, mình có cơ hội tích lũy kiến thức và kinh nghiệm trong các dự án, sự kiện tổ chức. Điều này giúp mình phát triển khả năng giao tiếp, quản lý thời gian và một số kỹ năng mềm khác."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b01514efd86b9646f66",
+      "answerOfTextQuestionData": {
+        "text": "Định hướng ngắn hạn của mình trong vòng 1-3 năm là làm việc tại một doanh nghiệp ổn áp để tận dụng kiến thức cũng như xây dựng kinh nghiệm thực tế. Trong tương lai dài hạn, khoảng 5-15 năm, mình hướng đến vai trò cao cấp hơn trong lĩnh vực hịện tại của mình, nơi mình có thể bắt đầu đóng góp vào những vai trò như quyết định chiến lược hay phát triển tổ chức."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b0594a6bdf3967c6215",
+      "answerOfTextQuestionData": {
+        "text": "Trong quá trình học tập mình đã tham khảo các buổi talkshow và quan sát các dự án của giáo viên hoặc khóa trên nhưng mình chưa dám khẳng định vậy là đủ kinh nghiệm hay hiểu biết sâu rộng trong ngành nghề này. Hiện tại mình đang sử dụng Microsoft SQL Server và một số phần mềm khác trong quá trình học tập. Những kỹ năng này không chỉ giúp mình hiểu rõ về quy trình làm việc mà còn giúp tôi nhanh chóng thích ứng với môi trường công việc."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475b083917999b067f3952",
+      "answerOfTextQuestionData": {
+        "text": "Hiện đây là CV của mình https://www.topcv.vn/xem-cv/BFQEAQdXAQRXA1FcXwBTUAABAwEHVwEBAFwOXgccde"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "654670fbbd073fecc9472219",
+  "nonMemberId": "6558f6bc0130c43a1ce31013"
 }]
