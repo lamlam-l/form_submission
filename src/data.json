@@ -4183,4 +4183,119 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "6551fb480130c43a1ce30b22"
+},
+{
+  "_id": {
+    "$oid": "655b58e20130c43a1ce312b9"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547598e7b14978f476fa353",
+      "answerOfTextQuestionData": {
+        "text": "Đỗ Huyền Thu An"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547599270dda17a8202b9b7",
+      "answerOfDateQuestionData": {
+        "day": 2,
+        "month": 1,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759959bf036a1a2fd2c63",
+      "answerOfTextQuestionData": {
+        "text": "kellyando2004@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759992eb2d3f4db0cffda",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/an.apple.2104"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547599d62694eec2a6fe1d4",
+      "answerOfTextQuestionData": {
+        "text": "0365367886"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "654759a11e7fbe6955d0de66",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654759a970f2ce433a7fcd8b"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759b9a14fa5c3173966af",
+      "answerOfTextQuestionData": {
+        "text": "Đại học Kinh tế Quốc dân"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759be98804c257753c4c7",
+      "answerOfTextQuestionData": {
+        "text": "Quản lý Chuỗi Cung ứng"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c4f3bf03a51148fa95",
+      "answerOfTextQuestionData": {
+        "text": "Mình sẽ dùng 3 tính từ để nói về bản thân: Chill - Trung thực - Chỉn chu. Và mình sẽ dùng 3 cụm từ: Tích cực - Gắn bó - Tinh thần đồng đội để làm mục tiêu và động lực để đồng hành cùng Google Developer Student Clubs - HANU"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759c75de592112e113f78",
+      "answerOfTextQuestionData": {
+        "text": "Mình có kha khá các kinh nghiệm thực tế khi quản lý các lớp học Online về Microsoft Office, tổ chức Talkshows và cuộc thi thực chiến kinh doanh ở CLB Tin học văn phòng và Thương mại Điện tử của NEU. Tại hai nơi này, mình không những được học hỏi kinh nghiệm, mở rộng các mối quan hệ và tiếp xúc trực tiếp với các công việc tổ chức sự kiện, mình còn học được cách quản lý thời gian sao cho phù hợp với việc sinh hoạt CLB và học chính trên trường, để đảm bảo tiến độ và chất lượng cho cả hai bên."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759cd91fcc45cb55507c9",
+      "answerOfTextQuestionData": {
+        "text": "Mặc dù mình chưa có kinh nghiệm gì trong mảng Technical, trong thời gian gần đây, mình có đang tự học Python online và mình thường xuyên sử dụng các language models như ChatGPT, Google Bard hay các AI chatbot khác phục vụ cho việc học tập (mình không vi phạm luật đạo văn). Mình cũng đã, đang và sẽ tìm hiểu các thông tin trong mảng Công nghệ cần thiết cho bản thân và cho cuộc sống."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d1b2ccbd8719c6b066",
+      "answerOfTextQuestionData": {
+        "text": "Định hướng ngắn hạn mình sẽ hoàn thành một vài chương trình học về Python sao cho có thể áp dụng vào việc nào đó cho mình. Trong tương lai, mình dự định sẽ tìm kiếm cơ hội việc làm liên quan đến Công nghệ. Theo mình, ban Technical nói chung và tiểu ban chuyên môn nói riêng sẽ giúp mình đi nhanh hơn và xa hơn trên con đường học tập và trải nghiệm về Công nghệ, vì đôi lúc mình gặp khó khăn và thử thách bởi rào cản về tư duy và kiến thức. Đây cũng là cơ hội để mình có thêm một người bạn mới, để phát triển bản thân và cộng đồng."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654759d7f97ebc2a9b30e408",
+      "answerOfTextQuestionData": {
+        "text": "Mình gửi BTC website cá nhân, bao gồm các thông tin về mình nhé! Link truy cập: https://kellyando2004.wixsite.com/my-site"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65466d75bd073fecc9472215",
+  "nonMemberId": "655b54fc0130c43a1ce3129e"
 }]
