@@ -3723,4 +3723,119 @@
   ],
   "jobId": "65467d2cbd073fecc9472229",
   "nonMemberId": "6559a1e90130c43a1ce3104c"
+},
+{
+  "_id": {
+    "$oid": "655aedb80130c43a1ce311c9"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "654769e939cd0150d43415f4",
+      "answerOfTextQuestionData": {
+        "text": "Dư Lê Hòa"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "654769f2624f3b697ac54b32",
+      "answerOfDateQuestionData": {
+        "day": 4,
+        "month": 10,
+        "year": 2004
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769f87f487e97414e1883",
+      "answerOfTextQuestionData": {
+        "text": "Hoadu4102004@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654769ffd53531bf46557442",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100017117052118"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a055f2cdb7c32f2b7c7",
+      "answerOfTextQuestionData": {
+        "text": "0353845779"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "65476a0d4297a318c93d68f4",
+      "answerOfMultipleQuestionData": {
+        "answerId": "65476a170300e6e4e1fa3f4f"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2baf36d54017a2c5c3",
+      "answerOfTextQuestionData": {
+        "text": "Đại học Phenikaa"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a2f07ea99cbde3ffc07",
+      "answerOfTextQuestionData": {
+        "text": "Quản trị kinh doanh"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a369b440504174d1b01",
+      "answerOfTextQuestionData": {
+        "text": "Bản thân em là người nhiệt huyết, có khả năng tự học và mong muốn theo đuổi ngành marketing trong tương lại. Trước đây, em đã từng có kinh nghiệm viết content cũng như có trải nghiệm tự lập kế hoạch marketing trong 1 dự án ở CLB. Trong thời gian sắp tới, em muốn trau dồi và nắm bắt những cơ hội để có thể thực chiến nhiều hơn từ đó có thêm kinh nghiệm và nâng cao các kĩ năng chuyên môn như lên xây dựng kế hoạch truyền thông, lên timeline bài đăng,..."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a3ad40132f9e5009a62",
+      "answerOfTextQuestionData": {
+        "text": "Trong năm nhất đại học, em đã may mắn có cơ hội tham gia hoạt động ở các tổ chức và dự án ngoại khóa khác nhau nhưng Neu Tour 2022, CLB Nhà Kinh Tế Trẻ (YEC-NEU)và \"Heading for the Future\" là những dự án mà em cảm thấy tự hào và học hỏi được nhiều nhất. Với vị trí Leader Nhà Khí dự án Neu Tour 2022, em đã học được cách lập kế hoạch giám sát tiến độ kinh doanh của nhóm, hiểu và biết cách quay và chỉnh sửa video cơ bản, phối hợp và phát triển nội dung trong các cuộc họp, cũng như quản lý và sắp xếp công việc cho nhóm khi 2 thử thách về kinh doanh và truyền thông diễn ra đồng thời. Đây cũng là dự án ngoại khóa đầu tiên của em và là lần đầu tiên em tiếp xúc với môi trường làm việc chuyên nghiệp cũng như có những người bạn đầu tiên tại trường đại học, điều này đã mang lại cho em một định hướng rõ ràng hơn cho tương lai. Ở vai trò là thành viên CLB Nhà Kinh Tế Trẻ (YEC - NEU), em đã có cơ hội tham gia nhiều dự án khác nhau và học được nhiều điều từ đó. Trong dự án Tháng Kinh Doanh, em đã có cơ hội được ứng dụng các kiến thức để cùng team lên 1 kế hoạch kinh doanh cũng như thực hiện truyền thông cho dự án này, từ đó, em cũng nâng cao được khả năng research và có khả năng thiết kế của mình. Ở các dự án sau đó (Mentoring Series 2023, Hành Trình Kinh Doanh,..), em có cơ hội được trải nghiệm và học cách để tổ chức một chương trình và hỗ trợ xây dựng ý tưởng trong các giai đoạn truyền thông offline. Nhớ đó, em hiểu rõ và học thêm được cách lên timeline, quản lý, theo dõi tiến độ công việc, cách điều phối các buổi họp và quy trình làm việc hiệu quả. Bên cạnh đó  những hoạt động này cũng giúp em nâng cao khả năng sử dụng các công cụ hỗ trợ như Google Sheets, Google Docs, Vmix và Lark. Trong dự án Heading for the Future, với tư cách là trưởng nhóm Team Volcano trong phần thực hành cuối cùng, nhóm chúng em đã giành được giải thưởng cho phần trình bày xuất sắc nhất. Thông qua hoạt động này, em đã học được cách phát triển đề xuất, thực hành kỹ năng nghiên cứu, thu thập kiến thức cơ bản về thương hiệu và xác định các lĩnh vực cần cải thiện như thuyết trình và lựa chọn khách hàng mục tiêu chính xác hơn."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a567f0d87063c21fcba",
+      "answerOfTextQuestionData": {
+        "text": "Sau khi tìm hiểu các công việc cũng như nhiệm vụ cụ thể thì em cảm thấy mình phù hợp với vị trí content creator vì những lý do sau. Đối với nhiệm vụ viết content, trước đây em đã từng tham gia học cũng như thực hành viết content để xây dựng thương hiệu trên chính facebook của mình cũng như có khoảng thời gian làm content creator cho 1 công ty về giáo dục và nhận được khá nhiều phản hồi tích cực. Bên cạnh đó, em cũng có khả năng tự học và research khá tốt cũng như có nền tảng về tiếng anh để phục vụ trong quá trình tìm kiếm, lên ý tưởng cho các bài đăng. Ở nhiệm vụ lập kế hoạch và xây dựng nội dung trên các kênh truyền thông, dù chưa có quá nhiều kinh nghiệm nhưng em đã từng được học về cách research và lên kế hoạch truyền thông trong dự án Tháng Kinh Doanh ở YEC. Bên cạnh đó, dù hoạt động ở ban khác nhưng em cũng chủ động đọc thêm các đầu ra từ ban Truyền Thông và hỏi thêm các bạn ở CLB để bổ sung kiến thức cho mình. Và với việc cộng tác với các ban khác: Trong quá trình hoạt động, em cũng từng làm việc ở những vị trí khác nhau vì vậy em cảm thấy khả năng làm việc nhóm và trao đổi thông tin liên ban của mình khá trôi chảy. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a5c1c33083c8135ee75",
+      "answerOfTextQuestionData": {
+        "text": "Hiện tại thì sau khi trải nghiệm và học hỏi,  em đang định hướng bản thân theo ngành marketing. Và để thực hiện được điều này, em đang mong muốn trong năm nay có thể học và thực hành nhiều hơn về việc lập kế hoạch truyền thông, thực thi kế hoạch, viết content để trau dồi thêm các kĩ năng như research, phân tích đối thủ và tìm insight khách hàng. Bên cạnh đó, em cũng đang học thêm về các phần mềm thiết kế như Photoshop và AI để có thể hỗ trợ thêm cho công việc của mình sau này. Nếu trở thành thành viên của ban Marketing nói chung và tiểu ban content nói riêng thì đây sẽ là cơ hội để em có thể học hỏi cũng như thực chiến, áp dụng những kĩ năng, kiến thức mình được học vào các hoạt động truyền thông của CLB đồng thời có thể học hỏi nhiều hơn từ các anh chị về các kinh nghiệm làm truyền thông và nâng cao khả năng sử dụng phần mềm thiết kế khi có cơ hội kết nối với các bạn ở tiểu ban graphic designer. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65476a65a713f5002d30060a",
+      "answerOfTextQuestionData": {
+        "text": "Đây là link CV của em ạ: t.ly/U2MG1"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467d2cbd073fecc9472229",
+  "nonMemberId": "6558d8cd0130c43a1ce31005"
 }]
