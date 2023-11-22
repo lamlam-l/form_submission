@@ -5817,4 +5817,135 @@
   ],
   "jobId": "65466d75bd073fecc9472215",
   "nonMemberId": "655e280d0130c43a1ce318dc"
+},
+{
+  "_id": {
+    "$oid": "655e36690130c43a1ce31932"
+  },
+  "answers": [
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563281154e1bf22c7d54",
+      "answerOfTextQuestionData": {
+        "text": "Trần Ngọc Ánh"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "DATE",
+      "questionId": "6547563648960da113ef6129",
+      "answerOfDateQuestionData": {
+        "day": 8,
+        "month": 4,
+        "year": 2003
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563b2264a4dd5ed4f063",
+      "answerOfTextQuestionData": {
+        "text": "kieuantran84@gmail.com"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547563f444bf6b3e88b05f6",
+      "answerOfTextQuestionData": {
+        "text": "https://www.facebook.com/profile.php?id=100053982696074"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475646e38d42325bbab074",
+      "answerOfTextQuestionData": {
+        "text": "0799270487"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "MULTIPLE_ANSWERS",
+      "questionId": "6547564b46a4e8cc6ab94c39",
+      "answerOfMultipleQuestionData": {
+        "answerId": "654756538b40f6ffb4891f07"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654756600dbcdaa1a5c21060",
+      "answerOfTextQuestionData": {
+        "text": "Trường Đại học Hà Nội"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "654756678c8a5f164a150f6b",
+      "answerOfTextQuestionData": {
+        "text": "Ngôn ngữ Anh"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475671809d6cc052d13839",
+      "answerOfTextQuestionData": {
+        "text": "Có 2 lí do chính khiến mình muốn apply vị trí EM. Thứ nhất là do bản thân mình cảm thấy thích tổ chức sự kiện nói chung và có hứng thú với vai trò Event Manager nói riêng. Mình đã có một chút kinh nghiệm trong việc tổ chức sự kiện với một số hình thức khác nhau (hội thảo, cuộc thi, triển lãm, workshop, talkshow), vậy nên mình muốn tiếp tục trau dồi bản thân trong một môi trường mới. Lí do thứ hai, mình có biết và tìm hiểu về GDSC (chủ yếu thông qua hoạt động truyền thông của CLB). Mình cảm thấy CLB có tiềm năng phát triển khá tốt, đợt tuyển dụng lần này được các bạn đầu tư nhiều công sức (mình thích tất cả các ấn phẩm trên page và cả chiếc web ạ), nên mình muốn vừa học hỏi, vừa dùng khả năng của bản thân giúp CLB phát triển và được biết đến nhiều hơn. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475674fb9115ce95dd307a",
+      "answerOfTextQuestionData": {
+        "text": "Sau nhiều lần trải nghiệm, mình cảm thấy bản thân có ba đặc điểm khá phù hợp với vị trí, đó là chủ động, kỷ luật và linh động. Mình sẽ chủ động trong giao tiếp và đưa ra ý kiến cũng như chủ động tìm hiểu và lắng nghe. Mình kỷ luật trong công việc, mình luôn luôn đặt công việc lên trên hết kể cả các mối quan hệ, mình ưu tiên chất lượng công việc lên hàng đầu nên mình không ngại áp dụng các biện pháp xử lý đối với những trường hợp không đảm bảo chất lượng công việc. Cuối cùng, mình cảm thấy linh động là đặc điểm cần có ở hầu hết các vị trí, người làm sự kiện càng cần phải linh động hơn. Xuyên suốt quá trình làm sự kiện từ bước lên kế hoạch đến khi kết thúc, luôn có nhiều vấn đề xảy ra đòi hỏi mình cần hết sức linh động, không cứng nhắc để xử lý vấn đề tốt nhất. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475679dadd341428690e36",
+      "answerOfTextQuestionData": {
+        "text": "Manager ban Event nói riêng sẽ có khó khăn chính trong việc đảm bảo sự kiện diễn ra theo đúng kế hoạch (không đủ ngân sách tổ chức, không tìm được diễn giả/ban giám khảo phù hợp với chương trình, không có địa điểm tổ chức...), ngoài ra sẽ có một số khó khăn liên quan đến nhân sự (thừa hoặc thiếu nhân sự, nhân sự không có tinh thần làm việc, chất lượng làm việc liên ban không đảm bảo, nhân sự không thống nhất khi làm việc...). Mình cảm thấy những khó khăn như đã nói ở trên yêu cầu Manager phải có khả năng lên các kế hoạch chi tiết, sát với thực tế, dự trù các rủi ro có thể xảy ra, triển khai và đảm bảo nắm được toàn bộ tình hình của sự kiện, đồng thời có khả năng gắn kết con người.  "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475682887a39cdc1cd7be8",
+      "answerOfTextQuestionData": {
+        "text": "Trực tiếp làm budget plan, risk mana, timeline dự án + timeline chương trình, thỏa thuận hợp tác ... và các tài liệu liên quan khác mình đã thông tin ở CV."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547568751c422e63b455bb5",
+      "answerOfTextQuestionData": {
+        "text": "Nếu trở thành Event Manager, mình sẽ định hướng ban phát triển dựa trên định hướng chung của Leadboard. Riêng ban Event sẽ có định hướng phát triển theo quy trình training - thực hành song song, ngoài ra cách quản lý ban Event của mình luôn là làm việc trực tiếp và theo nguyên tắc của người đứng đầu (thành viên sẽ trực tiếp phản ánh các vấn đề đến lead tiểu ban, manager sẽ nhận thông tin và feedback lại). Định hướng và cách quản lý của mình sẽ linh động tùy theo cách hoạt động của CLB."
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "65475695f9576f4b26e0a79f",
+      "answerOfTextQuestionData": {
+        "text": "Với vai trò Manager, việc các tiểu ban làm việc không có sự kết nối và liên kết với nhau sẽ trở thành một vấn đề tương đối trăn trở đối với mình. Mình trước tiên sẽ tìm hiểu nguyên nhân (có thể là chủ quan - do các lead tiểu ban và thành viên chưa tìm được cách làm việc chung phù hợp hoặc có thể là khách quan - do manager phân bổ công việc chưa hợp lý và các tác động ngoại cảnh khác). Sau đó đưa ra các giải pháp tùy vào tình hình thực tế (Ví dụ như thay đổi cách làm việc, thay đổi không gian, tạo ra nhiều cơ hội kết nối nhân sự hơn...) để có thể đảm bảo các tiểu ban làm việc hiệu quả nhất. "
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    },
+    {
+      "answerType": "TEXT",
+      "questionId": "6547569abf723678e82c43c8",
+      "answerOfTextQuestionData": {
+        "text": "https://drive.google.com/drive/folders/18RgqX7800FBeRDT08xZZY378dEMx_OaX?usp=drive_link"
+      },
+      "_class": "gdsc.hanu.platform.job.infrastructure.repository_implementation.job_application_submission.mongo_db_entity_converter.JobApplicationSubmissionMongoDBEntity$Answer"
+    }
+  ],
+  "jobId": "65467527bd073fecc947221e",
+  "nonMemberId": "655bfc070130c43a1ce31457"
 }]
