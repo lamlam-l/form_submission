@@ -74,7 +74,7 @@ export const useExcel = () => {
       const workbook = XLSX.utils.book_new();
       for (const sheet in sheets) {
         const worksheet = XLSX.utils.json_to_sheet(sheets[sheet]);
-        XLSX.utils.book_append_sheet(workbook, worksheet, sheet);
+        XLSX.utils.book_append_sheet(workbook, worksheet, sheet.slice(30));
       }
       XLSX.writeFile(workbook, "Submissions.xlsx", { compression: true });
     },
